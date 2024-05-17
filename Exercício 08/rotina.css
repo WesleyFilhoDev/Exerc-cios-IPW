@@ -50,7 +50,7 @@ a {
     color: black; 
 }
 
-a :hover {
+a:hover {
     color: rgb(255, 255, 255);
 }
 
@@ -67,22 +67,26 @@ a :hover {
     display: flex;
     flex-direction: row;
     justify-content: center;
-    margin-right: 50rem;
+    margin-left: -92rem;
     margin-top: -10rem;
     animation: shakeY infinite;
     animation-duration: 5s;
     animation-delay: 3s;
 }
 
-.instagram {
+.instagram__div {
     width: 10rem;
 }
 
-.github {
+.github__div {
     width: 10rem;
 }
 
-.whatsapp {
+.whatsapp__div {
+    width: 10rem;
+}
+
+.linkedin__div {
     width: 10rem;
 }
 
