@@ -48,3 +48,40 @@
     color: black;
     font-weight: bold;
 }
+
+.title__loja {
+    text-align: center;
+}
+
+
+
+.sapato_1 {
+    padding: 50px;
+    background-color: green;
+    width: 500px;
+}
+
+.sapato_2 {
+    padding: 50px;
+    background-color: green;
+    width: 500px;
+}
+
+.sapato_3 {
+    padding: 50px;
+    background-color: green;
+    width: 500px;
+}
+
+.sapato_4 {
+    padding: 50px;
+    background-color: green;
+    width: 500px;
+}
+
+.sapato_5 {
+    padding: 50px;
+    background-color: green;
+    width: 500px;
+}
+
