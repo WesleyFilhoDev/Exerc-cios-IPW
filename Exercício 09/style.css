@@ -87,3 +87,17 @@
     background-color: green;
 }
 
+p {
+    font: bold;
+    font-size: 20px;
+}
+
+.rodape {
+    background-color: gray;
+    height: 250px;
+}
+
+.text__rodape{
+    text-align: center;
+    padding: 120px;
+}
